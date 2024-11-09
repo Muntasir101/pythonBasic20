@@ -17,3 +17,9 @@ m3.summation(20, 30)
 m3.multiplication(4, 5)
 m3.multiplication(10, 20)
 m3.celsius_to_fahrenheit(40)
+
+import my_package_10.module4 as m4
+m4.divide(20,5)
+
+
+
